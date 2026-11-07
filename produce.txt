@@ -7,3 +7,4 @@ elderberry | fruit | yes | 12.00
 
 [vegetables]
 eggplant | vegetable | yes | 5.00
+aubergine | vegetable | no | 6.00
